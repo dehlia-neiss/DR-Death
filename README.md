@@ -81,7 +81,3 @@ L’analyse met en lumière un **profil très ciblé de victimes** : principalem
 
 Grâce à Power BI, nous avons pu **transformer des données brutes en informations compréhensibles** et visuelles, permettant de mieux appréhender les schémas criminels derrière ce cas hors norme.
 
----
-
-## 📁 Structure du dépôt
-
